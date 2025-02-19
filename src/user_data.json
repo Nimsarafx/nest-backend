@@ -1,0 +1,30 @@
+{
+    "user_data": [
+      {
+        "name": "John Doe",
+        "email": "johndoe@example.com",
+        "password": "Pass@123"
+      },
+      {
+        "name": "Jane Smith",
+        "email": "janesmith@example.com",
+        "password": "Secure#456"
+      },
+      {
+        "name": "Michael Johnson",
+        "email": "michaelj@example.com",
+        "password": "Qwerty!789"
+      },
+      {
+        "name": "Emily Davis",
+        "email": "emilyd@example.com",
+        "password": "StrongP@ss1"
+      },
+      {
+        "name": "Chris Brown",
+        "email": "chrisb@example.com",
+        "password": "Hello@2024"
+      }
+    ]
+  }
+  
